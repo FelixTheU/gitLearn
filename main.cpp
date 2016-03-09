@@ -3,5 +3,7 @@ using namespace std;
 
 int main()
 {
-}[A
+  cout<<"hello, git"<<endl;
+  return 0;
+}
 
